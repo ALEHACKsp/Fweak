@@ -12,3 +12,6 @@
   <img align="left" src="https://github.com/Fweak/Fweak/blob/master/DiscordLogo.png?raw=true" height="30px" width="30px"/>
   <p   align="left">Discord</p>
 </a>
+
+<h1> Educational Purposes </h1>
+<p> Follow me let's get to 200 follows!!!! <p>
