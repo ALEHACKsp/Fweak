@@ -16,5 +16,5 @@
   <p   align="left">Discord</p>
 </a>
 
-<h1> Educational Purposes </h1>
-<p> Follow me let's get to 200 follows!!!! <p>
+<h1 align='center'> Educational Purposes </h1>
+<p align='center'> Follow me let's get to 200 follows!!!! <p>
