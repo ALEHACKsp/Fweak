@@ -11,7 +11,7 @@
   <p   align="left">Twitter</p>
 </a>
 
-<a     align="left" href="https://discord.com/users/723814215562821714">
+<a     align="left" href="https://discord.com/users/503399285530951691">
   <img align="left" src="https://github.com/Fweak/Fweak/blob/master/DiscordLogo.png?raw=true" height="30px" width="30px"/>
   <p   align="left">Discord</p>
 </a>
