@@ -2,7 +2,7 @@
 
 <p align="left">
   📝  Repos: 15<br>
-  😲  Followers: 208<br>
+  😲  Followers: 207<br>
 </p>
 
 
